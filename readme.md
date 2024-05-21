@@ -16,8 +16,9 @@ The images are from the [Kaggle Fashion Product Images Dataset](https://www.kagg
 Don't forget to add the images folder to the project folder from the dataset link after uploading it.
 
 ## Screenshots
-![Sample Screenshot](./recommender-system-screenshot.png)
 *A sample screenshot of the fashion product recommendation system's results.*
+
+![Sample Screenshot](./recommender-system-screenshot.png)
 
 ## Installation
 
