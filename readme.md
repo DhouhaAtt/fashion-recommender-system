@@ -11,11 +11,13 @@ To generate recommendations,our system recommends similar images using nearest n
 
 
 ### Dataset Link
-The images from Kaggle Fashion Product Images Dataset.
+The images are from the [Kaggle Fashion Product Images Dataset](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small).
 
 Don't forget to add the images folder to the project folder from the dataset link after uploading it.
 
 ## Screenshots
+![Sample Screenshot](./recommender-system-screenshot.png)
+*A sample screenshot of the fashion product recommendation system's results.*
 
 ## Installation
 
